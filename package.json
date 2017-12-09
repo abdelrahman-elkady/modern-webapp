@@ -1,5 +1,24 @@
 {
-  "private": true,
+  "name": "modern-webapp",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abdelrahman-elkady/modern-webapp"
+  },
+  "author":
+    "Abdelrahman Elkady <elkadyabdelrahman@gmail.com> (http://abdelrahman-elkady.me/)",
+  "license": "BSD-2-Clause",
+  "description":
+    "A simple starter kit for bootstrapping html5 apps, based on yeoman webapp generator",
+  "keywords": [
+    "boilerplate",
+    "webapp",
+    "browserify",
+    "html5",
+    "starter",
+    "template",
+    "webapp"
+  ],
   "engines": {
     "node": ">=4"
   },
