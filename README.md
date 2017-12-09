@@ -1,4 +1,4 @@
-### Modern webapp starter kit
+# Modern webapp starter kit
 
 Based on [Yeoman's webapp generator](https://github.com/yeoman/generator-webapp), this is a starter kit for initializing modern html5 webapps.
 
