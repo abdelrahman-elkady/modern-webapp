@@ -1,5 +1,5 @@
 {
-  "name": "modern-webapp",
+  "name": "modern-webapp-starter-kit",
   "version": "1.0.0",
   "repository": {
     "type": "git",
@@ -17,7 +17,8 @@
     "html5",
     "starter",
     "template",
-    "webapp"
+    "webapp",
+    "kit"
   ],
   "engines": {
     "node": ">=4"
